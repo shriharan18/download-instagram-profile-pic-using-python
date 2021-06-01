@@ -1,3 +1,4 @@
+# This code was written by Shreeharan for the YouTube Channel Stark Intelligence
 import instaloader  # importing the module
 
 mod = instaloader.Instaloader()
